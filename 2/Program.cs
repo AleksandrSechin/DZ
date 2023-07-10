@@ -1,5 +1,5 @@
 ﻿// Напишите программу, которая на вход принимает два числа и выдает, какое число большее, а какое меньшее
-// a = 5; b = 7 -> max = 7
+// number1 = 5; number2 = 7 -> max = 7
 
 Console.WriteLine("Напишите первое число");
 int number1 = Convert.ToInt32(Console.ReadLine());
