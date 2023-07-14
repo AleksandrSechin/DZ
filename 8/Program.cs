@@ -4,6 +4,6 @@
 Console.Write("Напишите число ");
 int N = Convert.ToInt32(Console.ReadLine());
 for(int a=1; a<=N; a++){
-if (a % 2 == 0)
+if(a % 2 == 0)
     Console.Write(a + " ");
 }
