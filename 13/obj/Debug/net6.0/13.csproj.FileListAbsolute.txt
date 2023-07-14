@@ -1,0 +1,15 @@
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\bin\Debug\net6.0\13.exe
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\bin\Debug\net6.0\13.deps.json
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\bin\Debug\net6.0\13.runtimeconfig.json
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\bin\Debug\net6.0\13.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\bin\Debug\net6.0\13.pdb
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.csproj.AssemblyReference.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.AssemblyInfoInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.AssemblyInfo.cs
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.csproj.CoreCompileInputs.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\refint\13.dll
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.pdb
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\13.genruntimeconfig.cache
+D:\Запаско\Обучение в ИТ\ПО\Projects\DZ\DZ\13\obj\Debug\net6.0\ref\13.dll
