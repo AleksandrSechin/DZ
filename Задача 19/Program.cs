@@ -22,3 +22,18 @@ else
 {
     Console.WriteLine("Введите пятизначное число! ");
 }
+
+// int rev, sum = 0, result = number;
+// for (number!= 0; number = number /10){
+//     rev = number % 10;    52321     1 2 3 2 5
+//     sum = sum * 10 + rev;           1 12 12325
+// }
+// if (result == sum){
+//     Console.WriteLine("Да");
+// }
+// else {
+//      Console.WriteLine("Нет");
+// }
+
+
+// или if (number % 10 == number / 10000 && (number / 10) % 10 == (number / 1000) % 10)

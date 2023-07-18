@@ -10,10 +10,10 @@ if (number < 1 || number > 7)
     Console.WriteLine("Нет такого номера дня недели");
 }
 else if ((number == 6) || (number == 7))
-    {
-        Console.WriteLine("Этот день выходной");
-    }
-        else
-    {
-        Console.WriteLine("День не является выходным");
-    }
+{
+    Console.WriteLine("Этот день выходной");
+}
+else
+{
+    Console.WriteLine("День не является выходным");
+}
