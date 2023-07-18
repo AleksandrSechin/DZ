@@ -2,7 +2,7 @@
 // разницу между максимальным и минимальным элементами массива.
 // [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
-double[] numbers = new double[7];
+double[] numbers = new double[10];
 double min = Int32.MaxValue;
 double max = Int32.MinValue;
 
